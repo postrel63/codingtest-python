@@ -1,3 +1,4 @@
+# 백트래킹 
 def dfs(k, cnt, dungeons, visited):
     maxCount = cnt
     
